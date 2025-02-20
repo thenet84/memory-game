@@ -1,0 +1,21 @@
+.memory-game {
+  width: 800px;
+  display: grid;
+  grid-template-columns: repeat(4, 200px);;
+  gap: 12px
+}
+
+.card {
+  background-color: gray;
+  border: 1px;
+  border-radius: 4px;
+  width: 200px;
+  height: 200px;
+}
+
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 4px;
+}
